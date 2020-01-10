@@ -1,2 +1,2 @@
-# landing_first_comign_soon
+# Easy Service Center.bd
 Easy Service Center.bd coming soon template.
